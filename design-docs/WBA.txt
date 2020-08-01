@@ -1,0 +1,79 @@
+WBA
+
+DESIGN - 3 DOCUMENTS
+
+Class Diagrams
+To be implemented by Sak Yu Jin by MONDAY 2ND APRIL 2020
+To be reviewed by James Ure by TUESDAY 3TH APRIL 2020
+
+Interaction Diagrams (sequence diagrams)
+To be implemented by James Ure by TUESDAY 5TH APRIL 2020
+To be reviewed by Sak Yu Jin by WEDNESDAY 6TH APRIL 2020
+
+Design Rationale
+To be implemented by James Ure by THURSDAY 7TH APRIL 2020
+To be reviewed by Sak Yu Jin by FRIDAY 8TH APRIL 2020
+
+I agree (Sak Yu Jin 30/4/2020)
+I agree (James Ure 30/4/2020)
+
+
+
+IMPLEMENTATION
+
+Action classes
+To be implemented by James Ure
+To be reviewed by Sak Yu Jin
+
+Behaviour classes
+To be implemented by Sak Yu Jin
+To be reviewed by James Ure
+
+Item classes
+To be implemented by Sak Yu Jin
+To be reviewed by James Ure
+
+Ground classes
+To be implemented by James Ure
+To be reviewed by Sak Yu Jin
+
+Additionals functions e.g. (zombie and corpse item functions)
+To be implemented by James Ure
+To be reviewed by Sak Yu Jin
+
+All implementations are to be done by the 21st of May
+All reviews are to be done by the 22nd of May
+
+I agree (James Ure 5/16/2020)
+I agree (Yu Jin Sak 5/16/2020)
+
+
+
+EXTENSION (ASSIGNMENT 3)
+
+Town Level
+To be implemented by James Ure
+To be reviewed by Sak Yu Jin
+
+Weapons
+To be implemented by Sak Yu Jin
+To be reviewed by James Ure
+
+Mambo Marie
+To be implemented by James Ure
+To be reviewed by Sak Yu Jin
+
+Ending the game
+To be implemented by Sak Yu Jin
+To be reviewed by James Ure
+
+Design
+To be implemented by James Ure
+To be reviewed by Sak Yu Jin
+
+
+All implementations are to be done by the 10th of June
+All reviews are to be done by the 11th of June
+
+I agree (James Ure 5/16/2020)
+I agree (Yu Jin Sak 6/8/2020)
